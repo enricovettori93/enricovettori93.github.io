@@ -53,7 +53,7 @@ const Works = () => {
           </TabContentComponent>
           <TabContentComponent
             icon={"fas fa-code-branch"}
-            iconText={t("works-tab.toggle")}
+            iconText={t("study-tab.toggle")}
             title={t("study-tab.title")}
             theme={Theme.WHITE}
             onTabChange={handleChangeTabContent}

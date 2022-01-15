@@ -5,12 +5,12 @@
   "works-tab": {
     "title": "Lavoro",
     "toggle": "Passa a studi",
-    "description": "<p>Sono un appassionato sviluppatore frontend, dopo la fine degli studi ho iniziato a sviluppare la parte backend però successivamente mi sono reso conto che il frontend mi appassionava di più.<br>Attualmente lavoro presso Interlogica e sviluppo applicazioni frontend a stretto contatto con il design team e gli sviluppatori backend utilizzando svariate tecnologie.</p><p class='my-3'>Di seguito puoi trovare le mie esperienze e le teconologie usate:<p>"
+    "description": "<p>Sono Frontend dev, dopo la fine degli studi ho iniziato a lavorare sviluppatore backend però successivamente mi sono reso conto che il frontend mi appassionava di più.<br>Attualmente lavoro presso Interlogica e creo applicazioni web a stretto contatto con il design team e gli sviluppatori backend utilizzando svariate tecnologie.</p><p class='my-3'>Di seguito puoi trovare le mie esperienze e le teconologie usate:<p>"
   },
   "study-tab": {
     "title": "Studio",
     "toggle": "Passa a lavoro",
-    "unive-description": "Sono laureato in Informatica (2015 - 2018) presso Ca' Foscari con una votazione di 102/110 nel piano di studi 'tecnologie e scienze dell'informazione': la mia tesi si è basata sul corso di Ingegneria del software e ho sviluppato un'applicazione Android per visualizzare su mappa le opere compiute italiane, inoltre durante questo percorso di studi ho potuto affrontare diversi esami che mi hanno portato alla carriera dello sviluppatore web quali:",
+    "unive-description": "Sono laureato in Informatica (2015 - 2018) presso Ca' Foscari con una votazione di 102/110 nel piano di studi 'Tecnologie e scienze dell'informazione': la mia tesi si è basata sul corso di Ingegneria del software e ho sviluppato un'applicazione Android per visualizzare su mappa le opere compiute Italiane, inoltre durante questo percorso di studi ho potuto affrontare diversi esami che mi hanno portato alla carriera dello sviluppatore web quali:",
     "exams": {
       "algorithms": "algoritmi e strutture dati",
       "database": "basi di dati",
@@ -22,7 +22,7 @@
   },
   "hobbies": {
     "title": "Hobbies",
-    "description": "Mi appassiona tantissimo la tecnologia in particolare il mondo dei pc e degli smartphone, sono un appassionato lettore di romanzi, sto iniziando a collezionare alcuni manga (FullMetal Alchemist 🔥), mi piace guardare le serie tv e adoro immergermi nei mondi degli anime giapponesi.<p class='my-3'>Da qualche anno ho scoperto la passione della montagna dove vado ogni estate alla ricerca di posti nuovi e alla riscoporta di quelli dove sono già stato 😄</p>",
+    "description": "Mi appassiona tantissimo la tecnologia in particolare il mondo dei pc e degli smartphone, sono un gran lettore di romanzi e sto iniziando a collezionare alcuni manga (FullMetal Alchemist 🔥); ogni tanto guardo qualche serie tv e adoro immergermi nei mondi degli anime giapponesi.<p class='my-3'>Da qualche anno ho scoperto la passione della montagna dove vado ogni estate alla ricerca di posti nuovi e alla riscoporta di quelli dove sono già stato 😄</p>",
     "contact-me": "Desideri entrare in contatto con me? Ecco alcuni link utili!"
   }
 }

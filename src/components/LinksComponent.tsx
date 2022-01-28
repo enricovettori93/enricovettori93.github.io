@@ -15,7 +15,7 @@ const LinksComponent = () => {
   return (
     <div className={"flex justify-center items-center"}>
       {
-        links.map((link) => (<a className={"mx-2 text-xl"} target={"_blank"} href={link.href}><i className={link.icon}></i></a>))
+        links.map((link) => (<a key={link.href} className={"mx-2 text-xl"} target={"_blank"} href={link.href}><i className={link.icon}></i></a>))
       }
     </div>
   )
